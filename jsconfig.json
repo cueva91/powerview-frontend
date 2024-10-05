@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+      "target": "es6",       // Define la versión de ECMAScript
+      "module": "es6"        // Usa el módulo ES6
+    },
+    "exclude": ["node_modules", "dist"]  // Excluye estas carpetas
+  }
+  
